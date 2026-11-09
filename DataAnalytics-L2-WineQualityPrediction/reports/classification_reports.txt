@@ -1,0 +1,37 @@
+Random Forest
+=============
+                precision    recall  f1-score   support
+
+   Low Quality       0.69      0.66      0.67       128
+Medium Quality       0.53      0.57      0.55       107
+  High Quality       0.58      0.57      0.58        37
+
+      accuracy                           0.61       272
+     macro avg       0.60      0.60      0.60       272
+  weighted avg       0.61      0.61      0.61       272
+
+
+SVC
+===
+                precision    recall  f1-score   support
+
+   Low Quality       0.70      0.69      0.70       128
+Medium Quality       0.50      0.44      0.47       107
+  High Quality       0.49      0.70      0.58        37
+
+      accuracy                           0.59       272
+     macro avg       0.56      0.61      0.58       272
+  weighted avg       0.59      0.59      0.59       272
+
+
+SGD
+===
+                precision    recall  f1-score   support
+
+   Low Quality       0.66      0.54      0.59       128
+Medium Quality       0.43      0.31      0.36       107
+  High Quality       0.26      0.65      0.38        37
+
+      accuracy                           0.46       272
+     macro avg       0.45      0.50      0.44       272
+  weighted avg       0.52      0.46      0.47       272
