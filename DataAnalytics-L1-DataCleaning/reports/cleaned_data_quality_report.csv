@@ -1,0 +1,28 @@
+Check,Column,Count,Details
+Dataset size,All,49,Rows in the dataset
+Column count,All,10,Columns in the dataset
+Exact duplicate rows,All,0,Rows that exactly match an earlier record
+Incorrect data type columns,All,0,Expected numeric fields and purchase_date are checked
+Missing values,customer_id,0,0.00% of rows
+Missing values,age,0,0.00% of rows
+Missing values,gender,0,0.00% of rows
+Missing values,city,0,0.00% of rows
+Missing values,product_category,0,0.00% of rows
+Missing values,purchase_date,0,0.00% of rows
+Missing values,quantity,0,0.00% of rows
+Missing values,unit_price,0,0.00% of rows
+Missing values,total_amount,0,0.00% of rows
+Missing values,payment_method,0,0.00% of rows
+Inconsistent text formatting,gender,0,Values differing from the documented standardized form
+Inconsistent text formatting,city,0,Values differing from the documented standardized form
+Inconsistent text formatting,product_category,0,Values differing from the documented standardized form
+Inconsistent text formatting,payment_method,0,Values differing from the documented standardized form
+Transaction total mismatch,total_amount,0,Expected quantity multiplied by unit price
+Invalid or unparseable values,purchase_date,0,Date strings that cannot be parsed
+Invalid or suspicious values,age,0,Age must be between 1 and 100
+Invalid or suspicious values,quantity,0,Value must be greater than zero
+Invalid or suspicious values,unit_price,0,Value must be greater than zero
+IQR outliers,age,1,Potential outliers; review context before changing valid values
+IQR outliers,quantity,5,Potential outliers; review context before changing valid values
+IQR outliers,unit_price,11,Potential outliers; review context before changing valid values
+IQR outliers,total_amount,2,Potential outliers; review context before changing valid values

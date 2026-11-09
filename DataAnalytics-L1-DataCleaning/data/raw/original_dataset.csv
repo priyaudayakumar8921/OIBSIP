@@ -1,0 +1,55 @@
+customer_id,age,gender,city,product_category,purchase_date,quantity,unit_price,total_amount,payment_method
+C001,24,Male,New York,Electronics,2025-01-03,1,899.99,899.99,Card
+C002,31,female," los angeles ",Clothing,01/05/2025,2,49.50,99.00, cash
+C003,45,F,Chicago,Home,2025-01-07,1,120.00,120.00,Card
+C004,,Male,Houston,Beauty,2025-01-09,3,18.75,56.25,Wallet
+C005,29,M,New York,Clothing,2025-01-11,1,75.00,75.00,Card
+C006,38,Female,Los Angeles,Electronics,2025-01-13,1,1299.00,1299.00,Cash
+C007,52,Male,Chicago,Home,2025-01-15,2,210.00,420.00,Card
+C008,33,Female,Houston,Beauty,2025-01-17,4,12.50,50.00,Wallet
+C009,27,Male,NYC,Clothing,2025-01-19,2,45.00,90.00,Cash
+C010,41,F,Chicago,Electronics,2025-01-21,1,699.00,699.00,Card
+C011,35,Male,New York,Home,2025-01-23,1,155.00,155.00,Card
+C012,22,Female,Los Angeles,Beauty,2025-01-25,5,9.99,49.95,Wallet
+C013,48,Male,Houston,Electronics,2025-01-27,1,1099.00,1099.00,Card
+C014,30,Female,Chicago,Clothing,2025-01-29,2,39.00,78.00,Cash
+C015,55,Male,New York,Home,2025-02-01,1,250.00,250.00,Card
+C016,19,Female,Los Angeles,Beauty,2025-02-03,3,15.00,45.00,Wallet
+C017,37,Male,Chicago,Electronics,2025-02-05,1,499.00,499.00,Card
+C018,44,Female,Houston,Clothing,2025-02-07,2,59.00,118.00,Cash
+C019,26,Male,New York,Home,2025-02-09,1,180.00,180.00,Card
+C020,62,Female,Los Angeles,Beauty,2025-02-11,2,22.00,44.00,Wallet
+C021,150,Male,Chicago,Electronics,2025-02-13,1,799.00,799.00,Card
+C022,28,Female,Houston,Clothing,2025-02-15,1,89.00,89.00,Cash
+C023,39,Male,New York,Home,2025-02-17,2,135.00,270.00,Card
+C024,34,Female,Los Angeles,Beauty,2025-02-19,3,11.50,34.50,Wallet
+C025,25,Male,Chicago,Electronics,2025-02-21,1,9999.00,9999.00,Card
+C026,47,Female,Houston,Clothing,2025-02-23,2,42.00,84.00,Cash
+C027,32,Male,New York,Home,2025-02-25,1,199.00,199.00,Card
+C028,29,Female,Los Angeles,Beauty,2025-02-27,0,14.00,0.00,Wallet
+C029,42,Male,Chicago,Electronics,2025-03-01,1,599.00,599.00,Card
+C030,36,Female,Houston,Clothing,2025-03-03,25,25.00,625.00,Cash
+C031,-5,Male,New York,Home,2025-03-05,1,165.00,165.00,Card
+C032,23,Female,Los Angeles,Beauty,2025-03-07,4,10.00,40.00,Wallet
+C033,40,Male,Chicago,Electronics,2025-03-09,1,899.00,899.00,Card
+C034,31,Female,Houston,Clothing,2025-03-11,2,52.00,104.00,Cash
+C035,53,Male,New York,Home,2025-03-13,1,220.00,220.00,Card
+C036,27,Female,Los Angeles,Beauty,2025-03-15,3,,,
+C037,46,Male,Chicago,Electronics,2025-03-17,1,749.00,749.00,Card
+C038,33,Female,Houston,Clothing,2025-03-19,2,65.00,130.00,Cash
+C039,24,Male,New York,Home,not-a-date,1,145.00,145.00,Card
+C040,37,Female,Los Angeles,Beauty,2025-03-23,2,17.00,34.00,Wallet
+C041,29,male,nyc, electronics ,2025-03-25,1,799.00,799.00,credit card
+C042,43,F, Chicago ,Home & Kitchen,2025-03-27,1,185.00,185.00,Debit Card
+C043,32,Male,Houston,Clothing,2025-03-29,2,48.00,95.00,cash
+C044,35,Female,Los Angeles,Beauty,2025-03-31,1,0.00,0.00,Wallet
+C045,,FEMALE,New York,Home,04/02/2025,1,175.00,175.00,Card
+C046,28,Male,Chicago,Clothing,2025-04-04,-2,32.00,-64.00,Cash
+C047,39,Female,Houston,Electronics,2025-04-06,1,899.00,899.00,Card
+C048,51,Male,New York,Beauty,2025-04-08,4,8.50,34.00,Wallet
+C049,26,Female,Los Angeles,Home,2025-04-10,1,240.00,240.00,Card
+C050,34,Male,Chicago,Clothing,2025-04-12,2,55.00,110.00,Cash
+C007,52,Male,Chicago,Home,2025-01-15,2,210.00,420.00,Card
+C014,30,Female,Chicago,Clothing,2025-01-29,2,39.00,78.00,Cash
+C029,42,Male,Chicago,Electronics,2025-03-01,1,599.00,599.00,Card
+C050,34,Male,Chicago,Clothing,2025-04-12,2,55.00,110.00,Cash

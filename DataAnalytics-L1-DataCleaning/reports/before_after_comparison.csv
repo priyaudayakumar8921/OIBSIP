@@ -1,0 +1,7 @@
+Metric,Before Cleaning,After Cleaning
+Total rows,54,49
+Total columns,10,10
+Missing values,5,0
+Duplicate rows,4,0
+Data type issues,1,0
+IQR outliers,22,19
