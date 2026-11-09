@@ -1,0 +1,6 @@
+Check,Value,Notes
+Rows,284807,Raw benchmark records
+Columns,31,Includes Class target
+Missing cells,0,Checked before modeling
+Exact duplicate rows,1081,Audited and removed from the modeling copy before splitting to prevent train-test leakage
+Features,30,All columns except Class

@@ -1,0 +1,11 @@
+Model,Test_Row_Position,Error_Type,Actual_Class,Predicted_Class,Predicted_Fraud_Probability
+Logistic Regression,16,False Positive,0,1,0.5513600001926814
+Logistic Regression,145,False Positive,0,1,0.9115379740409514
+Logistic Regression,155,False Positive,0,1,0.5230265708851348
+Logistic Regression,156,False Positive,0,1,0.935908319970543
+Logistic Regression,157,False Positive,0,1,0.5073167075757168
+Logistic Regression,4480,False Negative,1,0,0.08560237201993598
+Logistic Regression,5187,False Negative,1,0,0.02437678436308416
+Logistic Regression,22495,False Negative,1,0,0.319188526796871
+Logistic Regression,27361,False Negative,1,0,0.2580888938477935
+Logistic Regression,29007,False Negative,1,0,0.005267307193682682
